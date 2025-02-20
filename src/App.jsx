@@ -35,7 +35,7 @@ function App() {
           		</Routes>
         	</Router>
       	  <footer>
-	         <p>© 2025 Trevor Gililland and Alyshia Rhiannon</p>
+	         <p>© 2025 Alyshia Benson</p>
 	      </footer>
 	    </div>
   );
