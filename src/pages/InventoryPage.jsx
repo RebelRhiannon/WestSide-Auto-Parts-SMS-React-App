@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom';
 
 function InventoryPage() {
-    // Sample inventory data
+    // Sample inventory data (This would be fetched from your backend)
     const inventoryData = [
         { inventory_line_id: 1, product_id: 1, warehouse: "Warehouse A", quantity: 100 },
         { inventory_line_id: 2, product_id: 1, warehouse: "Warehouse B", quantity: 50 },
@@ -76,3 +76,4 @@ function InventoryPage() {
 }
 
 export default InventoryPage;
+
